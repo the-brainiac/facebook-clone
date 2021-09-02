@@ -25,7 +25,7 @@ https://shivprojects.pythonanywhere.com/facebook/
 https://github.com/the-brainiac/basic-login-logout-system/tree/main/facebook  
 Currently the repo of this code is private but soon i will make it public(after making some changes in the code) untill then if you want to contribute or have any suggestions then please reach out to me at : shiv71290@gmail.com
 ## Description
-```This web app is structured to handle multiple request-response cycle of APIs. API system is used to perform most of the tasks. This project includes the creation of users, login, creation, and updating of Posts and also handles a real-time messenger app where each user can send friend requests and exchange messages users will not be able to send messages without being friends.```  
+This web app is structured to handle multiple request-response cycle of APIs. API system is used to perform most of the tasks. This project includes the creation of users, login, creation, and updating of Posts and also handles a real-time messenger app where each user can send friend requests and exchange messages users will not be able to send messages without being friends.
 
 ### This web app handles these Models(Tables)-  
 - `Admin`
